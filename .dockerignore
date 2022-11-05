@@ -1,0 +1,5 @@
+env/
+scripts
+tests
+.github
+*.ipynb
